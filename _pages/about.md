@@ -13,7 +13,7 @@ I have been a lecturer at UCC since August 2023.
 
 Research Interests
 ==================
-I am interested in the theory and applications of nonlinear dynamics. Some specific applications I am interested in include:
+I am interested in the theory and applications of nonlinear dynamics. Some specific applications I am interested in:
 
 * Tipping points in climate and ecosystems
 * Dynamic games applied to cancer treatment
