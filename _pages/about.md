@@ -6,12 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a Lecturer in Mathematical Sciences, specialising in nonlinear dynamics. 
-I completed my undergraduate studies in Iraq before pursuing a PhD at the University of Exeter, UK, between June 2015 and December 2018.
-Subsequently, I moved to [University College Cork (UCC)](https://www.ucc.ie/en/matsci/) to work as a postdoctoral researcher between September 2019 and August 2023. 
-I have been a lecturer at UCC since August 2023.
-
 I am a Lecturer in Mathematical Sciences specializing in nonlinear dynamics. 
 I completed my undergraduate studies in Iraq and then pursued a PhD at the University of Exeter, UK, from June 2015 to December 2018. 
 Afterward, I worked as a postdoctoral researcher at [University College Cork (UCC)](https://www.ucc.ie/en/matsci/) from September 2019 to August 2023. 
