@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=TTuvs9kAAAAJ&hl=en
     
-  - title: "Teaching"
-    url: /teaching/ 
+#  - title: "Teaching"
+#    url: /teaching/ 
 
  # - title: "Talks"
  #  url: /talks/    
