@@ -25,10 +25,10 @@ author:
   avatar           : "HA_photo.jpg"
   name             : "Hassan Alkhayuon"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer in Mathematical Sciences"
+  bio              : "Lecturer in Maths Sciences"
   location         : "Cork, Ireland"
   employer         : "University College Cork"
-  uri              : "https://research.ucc.ie/profiles/hassan.alkhayuon@ucc.ie"
+  uri              : #"https://research.ucc.ie/profiles/hassan.alkhayuon@ucc.ie"
   email            : "hassan.alkhayuon@ucc.ie" 
 
   # Academic websites
@@ -40,13 +40,13 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57201198769"
+  scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=57201198769"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "hassanalkhayuon"
+  github           : # "hassanalkhayuon"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
