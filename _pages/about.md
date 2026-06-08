@@ -36,3 +36,8 @@ Upcoming events:
     * [Karen Abbott](https://biology.case.edu/faculty/karen-abbott/),
     * [Alan Hastings](https://alanhastings.ucdavis.edu/people/alan-hastings),
     * [Rebecca Tyson](https://cmps-people.ok.ubc.ca/rtyson/).
+    
+Upcoming talks:
+===============
+* [Metastability, critical transitions, and long transients in the Earth system](https://www.newton.ac.uk/event/fcpw01/), Isaac Newton Institute, Cambridge, UK, 4-6 Aug 2026. 
+
