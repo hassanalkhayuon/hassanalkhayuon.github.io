@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Hassan Alkhauon"
 title_separator          : "-"
 name                     : &name "Hassan Alkhyuon"
-description              : &description "Lecturer in Mathematical Sciences" 
+description              : &description "Lecturer in Applied Mathematics" 
 url                      : https://hassanalkhayuon.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hassanalkhayuon.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "HA_photo.jpg"
   name             : "Hassan Alkhayuon"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer in Maths Sciences"
+  bio              : "Lecturer in Applied Maths"
   location         : "Cork, Ireland"
   employer         : "University College Cork"
   uri              : #"https://research.ucc.ie/profiles/hassan.alkhayuon@ucc.ie"
@@ -132,7 +132,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :

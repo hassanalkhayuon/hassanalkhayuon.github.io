@@ -24,7 +24,15 @@ Teaching:
 
 I am currently teaching:
 
-* [AM4064](https://ucc-ie-public.courseleaf.com/modules/?details&srcdb=2023&code=AM4064) Perturbation and Asymptotic Methods.
-* [AM1054](https://ucc-ie-public.courseleaf.com/modules/?details&srcdb=2023&code=AM1054) Mathematical Software.
-* [MA1011](https://ucc-ie-public.courseleaf.com/modules/?details&srcdb=2023&code=MA1011) Mathematical Methods I.
+* [AM4064](https://ucc-ie-public.courseleaf.com/modules/?details&srcdb=2025&code=AM4064) Perturbation and Asymptotic Methods.
+* [AM1054](https://ucc-ie-public.courseleaf.com/modules/?details&srcdb=2025&code=AM1054) Mathematical Software.
+* [MA1011](https://ucc-ie-public.courseleaf.com/modules/?details&srcdb=2025&code=MA1011) Mathematical Methods I.
 
+Upcoming events:
+================
+* [Mathematical Models in Ecology and Evolution (MMEE)](https://www.ucc.ie/en/matsci/events/mmee/), Cork, Ireland, 21-24 July 2026. Co-organised with [Kieran Mulchrone](https://scholar.google.com/citations?user=5QMkI0gAAAAJ&hl=en).
+* [From transient dynamics to tipping points: Understanding qualitative changes in biological systems](https://www.birs.ca/events/2027/5-day-workshops/27w5690), Banff, Canada, 28 Mar - 2 Apr 2027. Co-organised with: 
+    * [Chris Heggerud](https://cheggerud.github.io/#),
+    * [Karen Abbott](https://biology.case.edu/faculty/karen-abbott/),
+    * [Alan Hastings](https://alanhastings.ucdavis.edu/people/alan-hastings),
+    * [Rebecca Tyson](https://cmps-people.ok.ubc.ca/rtyson/).
