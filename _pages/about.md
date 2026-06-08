@@ -11,9 +11,9 @@ I completed my undergraduate studies in Iraq and then pursued a PhD at the Unive
 Afterward, I worked as a postdoctoral researcher at [University College Cork (UCC)](https://www.ucc.ie/en/matsci/) from September 2019 to August 2023. 
 I have been a lecturer at UCC since August 2023.
 
-Research Interests
-==================
-I am interested in the theory and applications of nonlinear dynamics. Some specific applications I am interested in:
+Research Interests:
+===================
+I am interested in the theory and applications of nonlinear dynamics. Some specific applications:
 
 * Tipping points in climate and ecosystems
 * Dynamic games applied to cancer treatment
